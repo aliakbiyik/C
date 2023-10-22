@@ -1,6 +1,6 @@
 [Project]
-FileName=hello_world.dev
-Name=hello_world
+FileName=variable.dev
+Name=variable
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=hello_world.c
+FileName=variable.c
 CompileCpp=0
 Folder=
 Compile=1
