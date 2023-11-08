@@ -1,6 +1,6 @@
 [Project]
-FileName=char_example.dev
-Name=char_example
+FileName=struct.dev
+Name=struct
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=char_example.c
+FileName=struct.c
 CompileCpp=0
 Folder=
 Compile=1
